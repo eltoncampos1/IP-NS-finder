@@ -1,8 +1,7 @@
 package main
 
 import (
-	"fmt"
-        "command-line/app"
+ 	"command-line/app"
 	"os"
 	"log"
 )

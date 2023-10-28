@@ -19,7 +19,6 @@ func Generate() *cli.App {
 	    },
 	}
 
-
   app.Commands = []cli.Command{
 	{
 	  Name: "ip",
