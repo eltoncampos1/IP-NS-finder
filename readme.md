@@ -1,4 +1,4 @@
-# CLI APP to sfins Ips and Server names over the internet
+# CLI APP to find Ips and Server names over the internet
 
 ## Requirements
 
